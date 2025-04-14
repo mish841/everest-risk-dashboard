@@ -1,0 +1,122 @@
+claim_id,policy_id,claim_date,claim_amount,claim_status,claim_reason
+0,7,2023-07-06,493650.79,Approved,Theft
+1,7,2022-10-27,76058.03,Approved,Malfunction
+2,7,2021-09-21,297471.23,Pending,Fire
+3,8,2021-09-22,191064.54,Denied,Theft
+4,8,2020-10-28,484987.28,Pending,Malfunction
+5,8,2023-04-06,421217.34,Pending,Malfunction
+6,9,2021-05-18,419326.02,Approved,Theft
+7,10,2022-01-14,234877.89,Denied,Accident
+8,12,2023-11-18,207994.93,Approved,Malfunction
+9,13,2021-06-28,137430.13,Pending,Natural Disaster
+10,14,2024-03-05,29131.37,Pending,Theft
+11,17,2020-08-16,432496.47,Denied,Natural Disaster
+12,18,2022-04-21,406637.6,Denied,Natural Disaster
+13,19,2024-11-05,499859.12,Pending,Accident
+14,19,2025-08-01,498321.78,Approved,Fire
+15,19,2025-05-14,278160.42,Pending,Theft
+16,20,2025-04-09,384724.72,Approved,Malfunction
+17,24,2023-05-07,472438.1,Denied,Natural Disaster
+18,24,2024-02-26,424974.05,Denied,Theft
+19,24,2023-10-30,124426.7,Pending,Natural Disaster
+20,30,2021-12-04,225821.52,Denied,Accident
+21,31,2022-09-29,65450.55,Pending,Accident
+22,32,2022-05-26,477071.46,Denied,Malfunction
+23,32,2022-05-28,303481.14,Denied,Theft
+24,33,2023-10-07,115092.76,Pending,Theft
+25,33,2022-12-31,336178.64,Pending,Natural Disaster
+26,34,2022-01-01,309445.99,Denied,Malfunction
+27,42,2022-06-03,179723.2,Denied,Malfunction
+28,45,2023-02-03,57665.24,Denied,Theft
+29,50,2024-09-02,336115.02,Denied,Theft
+30,52,2024-02-20,260633.54,Pending,Malfunction
+31,54,2020-08-24,386386.88,Denied,Malfunction
+32,54,2020-10-01,260561.59,Approved,Fire
+33,54,2021-02-15,426238.57,Denied,Malfunction
+34,57,2024-11-01,276401.51,Denied,Natural Disaster
+35,57,2024-08-25,280908.05,Approved,Natural Disaster
+36,57,2024-05-03,438450.15,Denied,Natural Disaster
+37,63,2021-06-27,202337.95,Pending,Accident
+38,63,2021-11-12,67873.6,Denied,Accident
+39,73,2022-04-07,15362.56,Pending,Natural Disaster
+40,73,2021-10-18,377813.49,Pending,Natural Disaster
+41,75,2024-11-04,310534.47,Approved,Theft
+42,75,2023-04-08,352335.8,Denied,Natural Disaster
+43,75,2024-01-20,107269.12,Approved,Accident
+44,78,2022-02-22,69049.37,Denied,Malfunction
+45,79,2025-06-13,8257.79,Approved,Fire
+46,79,2025-05-17,175943.19,Approved,Natural Disaster
+47,82,2024-09-09,295368.93,Denied,Malfunction
+48,82,2024-08-02,196729.78,Pending,Theft
+49,82,2024-09-16,219299.99,Denied,Natural Disaster
+50,84,2024-03-17,452175.19,Approved,Natural Disaster
+51,84,2023-01-24,174779.48,Approved,Malfunction
+52,84,2023-09-20,257480.76,Pending,Fire
+53,86,2021-12-17,392042.85,Denied,Malfunction
+54,86,2022-03-21,198874.85,Denied,Accident
+55,87,2021-03-18,311421.26,Pending,Malfunction
+56,87,2021-10-08,431319.49,Pending,Natural Disaster
+57,97,2024-02-03,474810.79,Approved,Natural Disaster
+58,97,2023-03-04,74389.67,Approved,Theft
+59,106,2021-10-30,463367.22,Pending,Theft
+60,106,2021-04-09,246566.03,Approved,Natural Disaster
+61,106,2021-09-16,129863.95,Approved,Malfunction
+62,108,2022-03-07,230108.74,Denied,Fire
+63,109,2024-12-05,490036.26,Denied,Malfunction
+64,109,2024-08-01,246816.43,Pending,Natural Disaster
+65,119,2024-11-22,165047.05,Approved,Theft
+66,123,2023-04-22,317067.03,Pending,Accident
+67,123,2022-08-27,120832.66,Denied,Fire
+68,123,2023-07-29,38855.8,Pending,Theft
+69,125,2021-06-19,65310.98,Denied,Theft
+70,127,2023-04-10,64894.87,Denied,Malfunction
+71,127,2023-02-10,76799.44,Pending,Fire
+72,127,2023-03-26,70274.76,Approved,Fire
+73,128,2022-10-01,320796.5,Pending,Fire
+74,128,2023-10-27,91758.16,Denied,Malfunction
+75,129,2022-05-29,173487.97,Pending,Theft
+76,129,2023-07-24,448497.42,Denied,Theft
+77,133,2022-12-22,237506.86,Approved,Accident
+78,133,2022-11-10,334111.31,Denied,Theft
+79,133,2021-10-16,86987.62,Pending,Theft
+80,136,2020-10-14,96952.22,Approved,Natural Disaster
+81,136,2020-12-16,21393.44,Denied,Accident
+82,137,2024-03-01,85298.6,Denied,Malfunction
+83,137,2026-03-12,140016.58,Denied,Theft
+84,137,2024-11-20,89328.23,Approved,Natural Disaster
+85,138,2022-05-06,45262.56,Pending,Accident
+86,138,2022-03-24,61197.3,Pending,Natural Disaster
+87,138,2021-08-23,230928.61,Denied,Fire
+88,154,2023-08-19,103960.53,Denied,Natural Disaster
+89,154,2023-12-04,182770.66,Approved,Fire
+90,155,2023-08-05,252205.22,Denied,Malfunction
+91,155,2023-08-30,345507.02,Pending,Theft
+92,155,2023-08-05,20616.76,Approved,Theft
+93,159,2024-06-19,399905.79,Approved,Natural Disaster
+94,159,2024-09-17,314322.29,Approved,Fire
+95,161,2023-08-11,41797.76,Pending,Natural Disaster
+96,161,2023-08-02,436915.73,Pending,Theft
+97,161,2023-05-24,460515.33,Approved,Natural Disaster
+98,162,2022-10-04,31477.9,Approved,Natural Disaster
+99,162,2023-01-03,139161.95,Denied,Theft
+100,162,2023-07-23,403294.44,Pending,Natural Disaster
+101,165,2025-10-29,374381.59,Denied,Accident
+102,175,2025-03-01,93075.99,Approved,Theft
+103,177,2025-03-12,105465.31,Pending,Fire
+104,190,2020-10-20,185865.58,Denied,Fire
+105,190,2021-01-04,242776.97,Denied,Natural Disaster
+106,190,2021-04-25,309509.13,Approved,Theft
+107,191,2024-02-25,185087.91,Denied,Malfunction
+108,191,2027-01-19,231804.82,Pending,Theft
+109,191,2024-07-21,373988.0,Approved,Natural Disaster
+110,192,2022-07-27,19304.92,Denied,Accident
+111,196,2025-03-19,126966.04,Approved,Fire
+112,196,2025-07-22,356961.44,Pending,Fire
+113,197,2022-04-04,447708.21,Approved,Malfunction
+114,197,2022-08-16,256327.04,Approved,Fire
+115,197,2022-02-16,266524.63,Denied,Fire
+116,200,2022-12-08,54478.83,Approved,Malfunction
+117,201,2023-01-23,224258.77,Approved,Accident
+118,202,2024-04-21,266776.02,Approved,Malfunction
+119,202,2023-06-02,121992.78,Denied,Accident
+120,203,2024-04-06,135352.37,Approved,Natural Disaster

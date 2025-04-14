@@ -1,0 +1,101 @@
+company_id,company_name,industry,company_size,revenue,location,founded_year
+0,Gray and Sons,Tech,Small,115489335.06,West Lindsey,1985
+1,"Nguyen, Young and Hughes",Healthcare,Small,238171433.54,West Donaldmouth,1967
+2,Singh Inc,Tech,Large,220938212.83,Chandlerbury,2019
+3,Hicks Ltd,Tech,Large,181604252.84,Bauerport,2004
+4,Young-Phillips,Tech,Small,51025498.93,West Casey,1961
+5,Barrett Ltd,Healthcare,Small,47438684.88,Woodsburgh,2014
+6,Kennedy Group,Manufacturing,Small,38460969.96,South Jacquelineshire,1975
+7,"Olson, Rogers and Briggs",Manufacturing,Medium,434426311.43,East Aaron,1978
+8,Doyle-Vasquez,Retail,Large,120621887.34,Port Joshua,1985
+9,"Martinez, Chandler and Mejia",Tech,Small,213881410.45,West Haley,2004
+10,"Brown, Wilson and Murray",Finance,Medium,22925030.3,Johnsonberg,1969
+11,Thomas-Huang,Healthcare,Medium,242778364.52,Port Jacobmouth,1963
+12,House-Fuentes,Tech,Medium,250570579.04,Lake Jacob,1962
+13,Hughes Group,Finance,Medium,96750557.61,Shortstad,1983
+14,Daniels-Myers,Tech,Large,58638365.33,South Josephland,2008
+15,Holt LLC,Manufacturing,Small,99868209.83,East Rogerberg,1998
+16,Madden-Gaines,Tech,Large,94751461.67,Kristichester,1987
+17,Jimenez Ltd,Manufacturing,Medium,267130651.5,Wilsonchester,1974
+18,Sanders-Fritz,Tech,Small,132423780.5,Lake Rachael,1979
+19,Brown-Wallace,Finance,Small,127123218.98,Bradleyview,1979
+20,Howard-Lewis,Tech,Medium,185496603.94,Ellisshire,1985
+21,Long-Goodman,Retail,Large,28759278.27,Port Victor,1996
+22,Houston-Dean,Healthcare,Medium,80114715.65,South David,1995
+23,Bradshaw PLC,Healthcare,Large,97926842.39,Arnoldmouth,1984
+24,Christensen PLC,Tech,Large,139540645.34,Dianeburgh,1971
+25,Frederick PLC,Manufacturing,Large,394736221.08,South Stephen,1981
+26,White LLC,Healthcare,Medium,57921707.72,Stoneland,1998
+27,Delgado-Snyder,Finance,Large,212980258.79,New Dominiquechester,1978
+28,"Farmer, Andrews and Bridges",Finance,Small,243079609.01,Bethanyfort,1979
+29,Hammond Inc,Tech,Medium,18702871.75,Port Hailey,2001
+30,Walker-Brown,Finance,Small,248904767.98,Jamesview,1977
+31,"Bray, Jones and Keller",Manufacturing,Large,93556820.61,Butlerton,1990
+32,Blanchard PLC,Healthcare,Large,25612382.32,South Debbie,2013
+33,"Atkinson, Barker and Mayer",Retail,Large,189828221.91,West Mark,2008
+34,Jones LLC,Healthcare,Medium,241751687.94,Port Christianmouth,1967
+35,"Moore, Preston and Meyer",Healthcare,Large,204015363.55,Sherryport,2018
+36,"Rodriguez, Freeman and Nichols",Finance,Large,132276301.13,Danielview,2004
+37,Ellis PLC,Manufacturing,Medium,57859335.86,Mcdonaldbury,1996
+38,"Jackson, Gomez and Manning",Healthcare,Small,174215926.36,Porterside,2015
+39,Mcmahon-Scott,Retail,Small,88590346.25,North Joshuamouth,1956
+40,Hall LLC,Tech,Small,41001279.28,Sydneytown,1970
+41,"Massey, Waters and Baird",Retail,Large,99540205.11,East Aaronton,1958
+42,Stewart-Hardin,Retail,Medium,7843315.7,Spencerville,2009
+43,Williams LLC,Manufacturing,Medium,455566997.02,Lewisstad,2020
+44,"Morris, Hill and Harrison",Tech,Large,81340094.57,East Jacquelineland,1964
+45,"Armstrong, Wilkins and Coleman",Manufacturing,Medium,334635919.33,Duffyside,1993
+46,"Knight, Hines and Smith",Tech,Medium,96954767.45,New Angelica,2005
+47,"Fletcher, Fields and Olson",Healthcare,Medium,134816325.08,Smithmouth,1950
+48,Collins PLC,Finance,Large,225483457.55,New Johnview,1972
+49,Black-Wright,Manufacturing,Small,100578683.21,New Ginabury,1988
+50,Watkins-Conrad,Manufacturing,Large,485096467.6,West Andrea,1975
+51,Rivera LLC,Healthcare,Medium,196031877.61,Burchport,1970
+52,Estes-Simpson,Manufacturing,Large,470354481.37,Phillipstad,1950
+53,Gamble Group,Manufacturing,Medium,448465401.71,Nicholasfurt,2012
+54,Ramsey Inc,Tech,Small,181380493.75,South Patriciastad,1996
+55,"Harris, Adams and Eaton",Finance,Small,369921580.48,North Georgeburgh,1957
+56,"Chen, Maldonado and Pratt",Healthcare,Large,31238200.49,Dunnmouth,1960
+57,Norris-Norton,Tech,Large,62814944.41,Lake Derekstad,2012
+58,Lewis LLC,Tech,Large,18342050.23,Justinbury,1966
+59,Rowland Inc,Healthcare,Large,88079279.38,Elizabethland,2010
+60,Mack-Mora,Manufacturing,Small,200451871.95,Webbborough,1983
+61,Cook and Sons,Manufacturing,Large,142961025.57,South Emily,2004
+62,"Barnett, Santiago and Rodriguez",Healthcare,Large,208897002.2,Parkerfort,1975
+63,Thomas Group,Finance,Medium,152350030.78,Schaeferhaven,1997
+64,Burns-Ayala,Retail,Large,56905967.43,North Matthewfurt,2007
+65,Love PLC,Tech,Small,165095344.53,East Wendy,1978
+66,Perez-Ferguson,Tech,Medium,46572646.37,Clarkville,1952
+67,"Moore, Smith and Lee",Manufacturing,Large,403076520.57,Connieburgh,1979
+68,Lindsey Group,Manufacturing,Small,46529815.4,Farleychester,1950
+69,Smith Ltd,Tech,Large,296131646.3,Daltonmouth,1957
+70,Sutton PLC,Healthcare,Small,195338744.63,Ryanburgh,1954
+71,Bowers Group,Finance,Small,91505537.39,West Julie,2015
+72,Chen and Sons,Healthcare,Medium,11325308.11,Fullerside,2012
+73,Murray Group,Healthcare,Large,205710742.83,North Courtneyton,1966
+74,"Rasmussen, Dixon and Weiss",Manufacturing,Large,356360098.49,Lake Teresa,2010
+75,"Garcia, Russell and Allison",Healthcare,Medium,184961720.33,Port Andrew,2002
+76,Rogers-Burton,Healthcare,Small,195104883.2,South Ericshire,1962
+77,"Lozano, Horne and Gaines",Retail,Medium,15734885.7,East Samuel,2004
+78,Howell PLC,Retail,Medium,72334679.98,Brianview,1956
+79,Ward Group,Tech,Small,39181372.56,Port Lindseyburgh,2001
+80,King Group,Finance,Small,347294818.96,Grahammouth,1981
+81,Baird Ltd,Healthcare,Small,159591550.44,Kaylaborough,2018
+82,Pace-Jones,Retail,Small,66848706.95,Lowerystad,2004
+83,Miller PLC,Healthcare,Medium,25254004.07,South Madelineborough,2009
+84,Morrow PLC,Healthcare,Small,84635757.21,Lake Patricia,2006
+85,Wilson-Jones,Manufacturing,Small,169339827.79,West Josefort,1956
+86,"Graham, Larson and Fletcher",Manufacturing,Small,367507027.39,Acevedoville,1961
+87,Gallagher-Weaver,Healthcare,Small,163013793.13,Tommyview,2002
+88,Williams and Sons,Retail,Medium,177555335.77,Lawsonborough,1977
+89,Ford PLC,Retail,Small,94970770.11,Leeview,1971
+90,"Davis, Reed and Wells",Retail,Small,24799254.94,South Stanley,1999
+91,Gregory-Hunt,Finance,Medium,289599243.08,Lake Todd,1986
+92,Vargas and Sons,Retail,Large,152396224.67,Carolborough,2012
+93,Mills Group,Healthcare,Small,144706527.42,North Cody,1987
+94,Ellis-Holmes,Healthcare,Small,195032123.19,Cynthiaview,2019
+95,Santiago and Sons,Tech,Large,150669700.93,Port Susan,1990
+96,Schultz Ltd,Tech,Small,159206184.67,North Mikemouth,2011
+97,Sosa-Rodriguez,Manufacturing,Large,219495099.0,Alexandertown,1970
+98,Sullivan Group,Tech,Large,12498642.39,Reyeshaven,1960
+99,Haley-Bell,Healthcare,Small,35893942.48,East Julia,1958
