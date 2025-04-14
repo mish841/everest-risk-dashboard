@@ -63,6 +63,7 @@ FONT = "Poppins, sans-serif"
 
 # DASH APP
 app = Dash(__name__, suppress_callback_exceptions=True)
+server = app.server
 app.title = "Everest Risk Dashboard"
 
 app.validation_layout = html.Div([
@@ -144,6 +145,16 @@ def get_kpis(filtered_df):
             html.H1(filtered_df['company_name'].nunique())
         ], style=kpi_style)
     ], style={'display': 'flex', 'gap': '20px', 'marginBottom': '30px'})
+
+def get_unique_dropdown_options():
+    seen = set()
+    options = []
+    for i in range(len(X_test)):
+        name = df.iloc[i]['company_name']
+        if name not in seen:
+            seen.add(name)
+            options.append({'label': name, 'value': i})
+    return options
 
 # TABS
 app.layout = html.Div([
@@ -245,7 +256,7 @@ def render_tab(tab, industry, policy):
             html.Label("Select a company to view SHAP explanation:", style={'color': TEXT_LIGHT}),
             dcc.Dropdown(
                 id='shap-company-selector',
-                options=[{'label': df.iloc[i]['company_name'], 'value': i} for i in range(len(X_test))],
+                options=get_unique_dropdown_options(),
                 placeholder="Choose a company",
                 style={'width': '50%', 'color': DARK_BG, 'marginBottom': '20px'}
             ),
@@ -303,4 +314,5 @@ def update_shap_plot(company_idx):
     ])
 
 if __name__ == '__main__':
-   app.run(debug=True)
+    port = int(os.environ.get("PORT", 8050))
+    app.run(host="0.0.0.0", port=port)
